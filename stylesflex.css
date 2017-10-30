@@ -1,0 +1,41 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  height: 500px;
+  flex-direction: row;
+  width: 100%;
+  order: 1;
+}
+.column2 {
+  width: 33%;
+  height: 400px;
+  background-color: yellow;
+  order: 2;
+}
+
+.box1 {
+  height: 50%;
+  width: 33%;
+  background-color: red;
+}
+.box2 {
+  height: 50%;
+  width: 33%;
+  background-color: blue;
+}
+.box3 {
+  height: 50%;
+  width: 33%;
+  background-color: black;
+}
+.content1 {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+.pic1 {
+  width: 100%;
+  height: auto;
+
+}
